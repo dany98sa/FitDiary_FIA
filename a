@@ -1,0 +1,419 @@
+[33mcommit e4553151e9c6d49bac52f41fe5c543a102cb8e16[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Daniele Giaquinto <exSnake@hotmail.it>
+Date:   Fri Feb 4 14:16:22 2022 +0100
+
+    Update .gitattributes
+
+[33mcommit 499367ffc874a955af078299e46d2a4a0bb05c77[m
+Author: dany98sa <56975152+dany98sa@users.noreply.github.com>
+Date:   Fri Feb 4 14:14:00 2022 +0100
+
+    refactor
+
+[33mcommit b644ebb902a5dcf8a3159fc0497534f05c5d0895[m
+Author: dany98sa <56975152+dany98sa@users.noreply.github.com>
+Date:   Fri Feb 4 14:13:11 2022 +0100
+
+    refactor
+
+[33mcommit 956b3a2942c553a4dbbed4e14dd1d1e7dcd689e0[m
+Author: dany98sa <56975152+dany98sa@users.noreply.github.com>
+Date:   Fri Feb 4 13:38:57 2022 +0100
+
+    add pipeline di machine learning
+    
+    nella pipeline è stato usato un modello di random forest regressor
+
+[33mcommit b67e46193f6b39a3796fea83296012ca2930f3c7[m
+Author: dany98sa <56975152+dany98sa@users.noreply.github.com>
+Date:   Fri Feb 4 13:14:57 2022 +0100
+
+    add regressione senza feature scaling e no feature selection
+
+[33mcommit e250e5fb7091f4a31e113b01a65409a14b02ee26[m
+Author: Daniele Giaquinto <exSnake@hotmail.it>
+Date:   Fri Feb 4 12:39:30 2022 +0100
+
+    Refactor con MetricResultContainer
+
+[33mcommit c85b6f21b0946dae57ee0e8977d92bda97a37f1d[m
+Author: Daniele Giaquinto <exSnake@hotmail.it>
+Date:   Fri Feb 4 12:30:29 2022 +0100
+
+    Refactoring with MetricResultClass
+
+[33mcommit 6743b5937259969bd9ed9dd4b61f6bfd9af41709[m
+Author: dany98sa <56975152+dany98sa@users.noreply.github.com>
+Date:   Fri Feb 4 11:22:34 2022 +0100
+
+    add votingClassifier
+
+[33mcommit 5bcda88848abcad96d44e45758ae22b7d41f1a83[m
+Author: Rebecca Di Matteo <81223461+rebeccadimatteo@users.noreply.github.com>
+Date:   Fri Feb 4 10:07:28 2022 +0100
+
+    raffina
+
+[33mcommit d474c5907ae2163fc52fac9964c7c6edfd77b308[m
+Author: Rebecca Di Matteo <81223461+rebeccadimatteo@users.noreply.github.com>
+Date:   Fri Feb 4 09:36:12 2022 +0100
+
+    raffinamento
+
+[33mcommit 2f7a96693d5ce4b9bb7e0bda58bf8159baf9a215[m
+Author: Everysimo <61777854+Everysimo@users.noreply.github.com>
+Date:   Fri Feb 4 02:37:47 2022 +0100
+
+    fix results table
+
+[33mcommit 4cdea3a2d77a329155ddc3215ca45649cbaac452[m
+Author: Antonio Trapanese <81223239+MastAntonio@users.noreply.github.com>
+Date:   Thu Feb 3 23:45:41 2022 +0100
+
+    aggiunta bernoulli naive bayes
+
+[33mcommit 524f5bd2dcd5250e3bd9859575d77b5eeda1bf57[m
+Author: Antonio Trapanese <81223239+MastAntonio@users.noreply.github.com>
+Date:   Thu Feb 3 23:35:57 2022 +0100
+
+    aggiunta decision tree classifier
+
+[33mcommit 8a18dd81c7bf0b93112875e04b69fca6a4ede50e[m
+Author: Antonio Trapanese <81223239+MastAntonio@users.noreply.github.com>
+Date:   Thu Feb 3 23:15:59 2022 +0100
+
+    aggiunta over sampling balace
+
+[33mcommit e39a52d1ec219152c4812f226196e5e344e27d30[m
+Author: Rebecca Di Matteo <81223461+rebeccadimatteo@users.noreply.github.com>
+Date:   Thu Feb 3 22:58:28 2022 +0100
+
+    creazione funzione per data balancing
+
+[33mcommit 858da35a348ea069c5bb7539e7bdaf97a887a77c[m
+Author: Leonardo Monaco <64544645+lnrdmnc@users.noreply.github.com>
+Date:   Thu Feb 3 22:43:40 2022 +0100
+
+    add model testing
+
+[33mcommit 1cdbe8a406f31909c0c422d5c5a0ab4bc9ae5124[m
+Author: Daniele Giaquinto <exSnake@hotmail.it>
+Date:   Thu Feb 3 22:28:41 2022 +0100
+
+    Add Print function to use MetricsResultContainer printMetrics function
+
+[33mcommit 53c4bba6e9ef85a2a363a97a8c66d6a758261a63[m
+Author: Daniele Giaquinto <exSnake@hotmail.it>
+Date:   Thu Feb 3 22:19:30 2022 +0100
+
+    Remove unused import, fix imports
+
+[33mcommit 9d54ed30cf6417239ad6bb34ff04b3bab06570c5[m
+Author: Daniele Giaquinto <exSnake@hotmail.it>
+Date:   Thu Feb 3 22:15:20 2022 +0100
+
+    Refactor
+
+[33mcommit 6a93e9e99b0ba705925776e9ab14dd37fdd6c57f[m
+Author: Leonardo Monaco <64544645+lnrdmnc@users.noreply.github.com>
+Date:   Thu Feb 3 21:55:07 2022 +0100
+
+    Add divisioni in training e test
+
+[33mcommit ad5437c6a441d3d63fb2bc6291f5cf595bdab6ce[m
+Author: Leonardo Monaco <64544645+lnrdmnc@users.noreply.github.com>
+Date:   Thu Feb 3 21:43:54 2022 +0100
+
+    refactor
+
+[33mcommit c743c2df40b27a1b386740d967e93e34e112d53f[m
+Author: Leonardo Monaco <64544645+lnrdmnc@users.noreply.github.com>
+Date:   Thu Feb 3 21:31:54 2022 +0100
+
+    add data cleaning
+
+[33mcommit 7ea8b4a25f60da3c58d86465d550854395d6ecd3[m
+Author: Leonardo Monaco <64544645+lnrdmnc@users.noreply.github.com>
+Date:   Thu Feb 3 21:25:44 2022 +0100
+
+    Add ottenimento dataset e descrizione dataset
+
+[33mcommit 7ae9f17b867b64c371837f37626169e71a275079[m
+Author: dany98sa <56975152+dany98sa@users.noreply.github.com>
+Date:   Thu Feb 3 20:09:10 2022 +0100
+
+    add classificazione con Gaussian Naive Bayes e inizializzazione de dataset
+
+[33mcommit bc1eb57ef6aa3565fdf8f9348f8422c57f5d0994[m
+Merge: 0ea10f5 516d66c
+Author: Davide La Gamba <davidelg06@gmail.com>
+Date:   Thu Feb 3 19:15:01 2022 +0100
+
+    Merge remote-tracking branch 'origin/main' into main
+
+[33mcommit 0ea10f54968f58c1567f878f315a5c9e100ecf29[m
+Author: Davide La Gamba <davidelg06@gmail.com>
+Date:   Thu Feb 3 19:14:52 2022 +0100
+
+    fix: fix datasetClassificazione
+
+[33mcommit 516d66c5030608228a38f2459918c998184c9006[m
+Author: Everysimo <61777854+Everysimo@users.noreply.github.com>
+Date:   Thu Feb 3 17:54:54 2022 +0100
+
+    add dataset for Regression
+
+[33mcommit 6041cbc2f78da74aee0d1c8383cb32a7eba35f7a[m
+Merge: 0848227 d0afa6c
+Author: Davide La Gamba <davidelg06@gmail.com>
+Date:   Thu Feb 3 17:35:17 2022 +0100
+
+    Merge remote-tracking branch 'origin/main' into main
+
+[33mcommit 084822744d6ec7d9412855c56ae20225152d8f99[m
+Author: Davide La Gamba <davidelg06@gmail.com>
+Date:   Thu Feb 3 17:34:57 2022 +0100
+
+    add: datasetClassificazione.csv
+
+[33mcommit d0afa6c9013c5d1efb36ffe017fdf46c41ab96fe[m
+Merge: f0a00da 5dda48f
+Author: dany98sa <56975152+dany98sa@users.noreply.github.com>
+Date:   Thu Feb 3 17:34:04 2022 +0100
+
+    Merge branch 'main' of https://github.com/rebeccadimatteo/FitDiary_FIA
+
+[33mcommit f0a00daf77ddbf632ef1b032d5149ec003b9de52[m
+Author: dany98sa <56975152+dany98sa@users.noreply.github.com>
+Date:   Thu Feb 3 17:32:02 2022 +0100
+
+    add creazione dataset classificazione
+
+[33mcommit 5dda48f3e1803057556edebcd55c5dc25af4f28b[m
+Author: dany98sa <56975152+dany98sa@users.noreply.github.com>
+Date:   Thu Feb 3 16:47:39 2022 +0100
+
+    add Ridge Regression
+
+[33mcommit 51ffe60ea6520dc55f5baf2febd5a023fd4e80b0[m
+Author: Daniele Giaquinto <exSnake@hotmail.it>
+Date:   Thu Feb 3 16:37:19 2022 +0100
+
+    Refactoring e new prints
+
+[33mcommit 5bcf4fa6d18cf9dc4e1581fe1264c9b05c7c0658[m
+Author: Daniele Giaquinto <exSnake@hotmail.it>
+Date:   Thu Feb 3 16:29:44 2022 +0100
+
+    Add MetricResults
+
+[33mcommit 4e31711e760fc997a476279e77a4e9ce2885509a[m
+Author: Davide La Gamba <81223418+davide-lagamba@users.noreply.github.com>
+Date:   Thu Feb 3 14:35:48 2022 +0100
+
+    add Lasso Regression
+
+[33mcommit 83ed2d6afbad79ef748a5a15ae915ed11897bb1a[m
+Author: Davide La Gamba <81223418+davide-lagamba@users.noreply.github.com>
+Date:   Thu Feb 3 14:11:20 2022 +0100
+
+    add Support Vector Regression
+
+[33mcommit 5870e9036f538261d2188327355c2cc322e385fe[m
+Author: Everysimo <61777854+Everysimo@users.noreply.github.com>
+Date:   Thu Feb 3 12:29:08 2022 +0100
+
+    add Random Forest Regressor
+
+[33mcommit 3e5afecacff3d70f33c0dd133247dd57c5eb7f07[m
+Author: Everysimo <61777854+Everysimo@users.noreply.github.com>
+Date:   Thu Feb 3 11:47:13 2022 +0100
+
+    add Decision Tree Regression
+
+[33mcommit 6a197cad1416864f97eaa3fc5d665ff112b9c78b[m
+Author: Davide La Gamba <81223418+davide-lagamba@users.noreply.github.com>
+Date:   Thu Feb 3 02:11:46 2022 +0100
+
+    add plot Multicollinearità
+
+[33mcommit 78250937edc7ccb906ecf1e5c232cd8b2b43cd81[m
+Author: Ilaria De Sio <81254926+iladesio@users.noreply.github.com>
+Date:   Wed Feb 2 16:36:42 2022 -0800
+
+    fix
+
+[33mcommit 68d2fda38ac806c0d6bbc851902f5b14a77a19d8[m
+Author: Ilaria De Sio <81254926+iladesio@users.noreply.github.com>
+Date:   Wed Feb 2 15:44:01 2022 -0800
+
+    Add Indipendenza degli errori
+
+[33mcommit a5c01d4a5dee0a128f7207c7f95a1def30dd075e[m
+Author: Ilaria De Sio <81254926+iladesio@users.noreply.github.com>
+Date:   Wed Feb 2 15:26:39 2022 -0800
+
+    add Controllo normalità residui
+
+[33mcommit 1b51e6b655b0a6056e7f346fd0e20df94cebe74b[m
+Author: Daniele Giaquinto <exSnake@hotmail.it>
+Date:   Wed Feb 2 23:42:19 2022 +0100
+
+    Fix function call with same K-Fold
+
+[33mcommit 2ab4d4f18dd7daa5d37e77643fb67f43eddd4440[m
+Author: Daniele Giaquinto <exSnake@hotmail.it>
+Date:   Wed Feb 2 22:30:47 2022 +0100
+
+    Add linearity plot, fix K-Fold and apply refactoring
+
+[33mcommit fa277b0e59a8ba689b1b1f74f271ecc60633ffa5[m
+Author: Daniele Giaquinto <exSnake@hotmail.it>
+Date:   Wed Feb 2 16:29:38 2022 +0100
+
+    Create README.md
+
+[33mcommit 00461a8c477287a63a9bfb437abff098ff107669[m
+Author: Everysimo <61777854+Everysimo@users.noreply.github.com>
+Date:   Wed Feb 2 16:28:53 2022 +0100
+
+    add commenti e rimozione codice obsoleto
+
+[33mcommit 77d538cc74614f53268110ebf8d2611698401447[m
+Author: Davide La Gamba <81223418+davide-lagamba@users.noreply.github.com>
+Date:   Wed Feb 2 13:06:26 2022 +0100
+
+    add miglior k per eseguire validazioni
+
+[33mcommit f5b2f657f12d0dafea4ebbf8d890817a00784dcd[m
+Author: Antonio Trapanese <81223239+MastAntonio@users.noreply.github.com>
+Date:   Wed Feb 2 12:32:45 2022 +0100
+
+    add repeated k fold validation e aggiunte medie alle metriche
+
+[33mcommit 77afb3562217596835572dca45cc5226f847d6b7[m
+Author: Everysimo <61777854+Everysimo@users.noreply.github.com>
+Date:   Wed Feb 2 11:31:58 2022 +0100
+
+    add ModelType alla classe Metrics per stampare il tipo di alogoritmo
+
+[33mcommit d4df7cc48dde0c0e751980d3ee3ed80438d92f5f[m
+Author: Everysimo <61777854+Everysimo@users.noreply.github.com>
+Date:   Wed Feb 2 11:26:20 2022 +0100
+
+    add toString alla classe Metrics e Commenti al Codice
+
+[33mcommit 2e94326c24e2ddbaec70dc4fe0c365eec929b56e[m
+Author: Davide La Gamba <81223418+davide-lagamba@users.noreply.github.com>
+Date:   Wed Feb 2 01:12:08 2022 +0100
+
+    fix creazione modello regressione lineare
+
+[33mcommit 89c1c093c63b28b1cb200b8d6975fff75b393489[m
+Author: Leonardo Monaco <64544645+lnrdmnc@users.noreply.github.com>
+Date:   Wed Feb 2 00:14:45 2022 +0100
+
+    Add classe metrics e calcolo metriche
+
+[33mcommit f0b4ff3d0ac6803cd095f577d79b837545fbfcb4[m
+Author: Davide La Gamba <81223418+davide-lagamba@users.noreply.github.com>
+Date:   Tue Feb 1 20:42:20 2022 +0100
+
+    fix plot e struttura documento
+
+[33mcommit 78195632fc37ade13f52bb6b31bf08ab012ecf8c[m
+Author: Davide La Gamba <81223418+davide-lagamba@users.noreply.github.com>
+Date:   Tue Feb 1 20:11:59 2022 +0100
+
+    add feature selection con SelectKBest
+
+[33mcommit e1cf1a58a8b84283016e759f7d4a263876bf30a0[m
+Author: Everysimo <61777854+Everysimo@users.noreply.github.com>
+Date:   Tue Feb 1 19:19:59 2022 +0100
+
+    add Feature Selection e Feature Scaling
+
+[33mcommit efb828b402a2bd4e9a140e9e66de5411ea319b5e[m
+Author: Davide La Gamba <davidelg06@gmail.com>
+Date:   Tue Feb 1 16:17:05 2022 +0100
+
+    fix: generazione utente
+
+[33mcommit fab8b578f9b276c39cb08e33573f6df45bbd1c5d[m
+Author: dany98sa <56975152+dany98sa@users.noreply.github.com>
+Date:   Mon Jan 31 23:27:11 2022 +0100
+
+    fix generazione dataset
+
+[33mcommit 178cbbdb5a1a8af641b0a1cc9a13b8797b280081[m
+Author: Rebecca Di Matteo <81223461+rebeccadimatteo@users.noreply.github.com>
+Date:   Mon Jan 31 19:53:29 2022 +0100
+
+    Create agente intelligente
+
+[33mcommit b07c43a2ca8e449837c40ccd3ab3dbcc077bdbc4[m
+Author: Rebecca Di Matteo <81223461+rebeccadimatteo@users.noreply.github.com>
+Date:   Mon Jan 31 19:50:40 2022 +0100
+
+    create agente intelligente
+
+[33mcommit 271f145712a697d70763b4b6ae2d9d57a394a702[m
+Author: Rebecca Di Matteo <81223461+rebeccadimatteo@users.noreply.github.com>
+Date:   Mon Jan 31 19:25:43 2022 +0100
+
+    creazione modello intelligente
+
+[33mcommit fdd1589e6a1bdbadd87f02544ee44c4f3aa82862[m
+Author: Rebecca Di Matteo <81223461+rebeccadimatteo@users.noreply.github.com>
+Date:   Mon Jan 31 19:07:51 2022 +0100
+
+    Creato con Colaboratory
+
+[33mcommit 01a93ef3300a6253f87e4ae8fa749c6da4c09d02[m
+Merge: edbbb2b ac7432f
+Author: dany98sa <56975152+dany98sa@users.noreply.github.com>
+Date:   Mon Jan 31 19:02:41 2022 +0100
+
+    Merge branch 'main' of https://github.com/rebeccadimatteo/FitDiary_FIA
+
+[33mcommit edbbb2b07e59eb88107078e11bd2f0f413c3929f[m
+Author: dany98sa <56975152+dany98sa@users.noreply.github.com>
+Date:   Mon Jan 31 19:02:32 2022 +0100
+
+    Create dataset.csv
+
+[33mcommit ac7432fd74f4cb34a47d351323a36f689c8844aa[m
+Author: Rebecca Di Matteo <81223461+rebeccadimatteo@users.noreply.github.com>
+Date:   Mon Jan 31 18:58:27 2022 +0100
+
+    creazione file per modello intelligente
+
+[33mcommit cec39d5e5a6be4a07a91001187f509b50e60ab56[m
+Author: dany98sa <56975152+dany98sa@users.noreply.github.com>
+Date:   Sun Jan 30 20:36:07 2022 +0100
+
+    creazione della lista utenti e del file csv
+
+[33mcommit 594ae0dc2fc32a44a0b70306c254f9a62a3d1886[m
+Author: rebeccadimatteo <81223461+rebeccadimatteo@users.noreply.github.com>
+Date:   Sun Jan 30 19:47:25 2022 +0100
+
+    aggiunta metodi in utente e report
+
+[33mcommit ceb3bfef4b8d2174779c366cc0405472ec1b279b[m
+Author: rebeccadimatteo <81223461+rebeccadimatteo@users.noreply.github.com>
+Date:   Sun Jan 30 18:47:10 2022 +0100
+
+    creazione classi utente e report
+
+[33mcommit bf469390505cde7cbcc7886d36ee2f79ce4a478f[m
+Author: rebeccadimatteo <81223461+rebeccadimatteo@users.noreply.github.com>
+Date:   Sun Jan 30 18:45:41 2022 +0100
+
+    creazione classi utente e report per dataset
+
+[33mcommit 7d8816aa13894f9879bfa91786777e0b01cff3db[m
+Author: Rebecca Di Matteo <81223461+rebeccadimatteo@users.noreply.github.com>
+Date:   Sun Dec 5 17:05:25 2021 +0100
+
+    Initial commit
